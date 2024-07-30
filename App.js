@@ -43,7 +43,7 @@ const handleSubmit = (e) => {
 };    
   return (
 <div>
-  {/* <GridDemo/> */}
+   <GridDemo/> 
   <div className="app">
     <br/>
     <br/>
